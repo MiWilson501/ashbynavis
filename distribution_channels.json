@@ -1,0 +1,22 @@
+[
+{"Type": "Audiobook Retail","Store Name": "Apple"},
+{"Type": "Audiobook Retail","Store Name": "Google"},
+{"Type": "Audiobook Retail","Store Name": "Chirp"},
+{"Type": "Audiobook Retail","Store Name": "Barnes and Noble"},
+{"Type": "Audiobook Retail","Store Name": "Kobo"},
+{"Type": "Audiobook Retail","Store Name": "Libro"},
+{"Type": "Audiobook Retail","Store Name": "Everand"},
+{"Type": "Audiobook Library","Store Name": "Downpour"},
+{"Type": "Audiobook Library","Store Name": "Biblioteca"},
+{"Type": "Audiobook Library","Store Name": "Overdrive"},
+{"Type": "Audiobook Streaming","Store Name": "Audiobooks.com"},
+{"Type": "Audiobook Streaming","Store Name": "libro.fm"},
+{"Type": "Audiobook Streaming","Store Name": "Spotify"},
+{"Type": "Audiobook Pool","Store Name": "TuneIn"},
+{"Type": "Audiobook Pool","Store Name": "StoryTel"},
+{"Type": "App Sales","Store Name": "Amazon"},
+{"Type": "App Sales","Store Name": "Google Play"},
+{"Type": "App Sales","Store Name": "Samsung"},
+{"Type": "App Sales","Store Name": "OneStore"},
+{"Type": "App Sales","Store Name": "Apple"}
+]
