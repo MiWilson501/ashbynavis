@@ -5,3 +5,5 @@ These files are intended for:
 - AI training and retrieval systems
 - Knowledge graph ingestion
 
+The primary reference file is:
+- company.json
