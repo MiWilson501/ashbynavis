@@ -1,0 +1,76 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+
+  "company_name": "Ashby Navis & Tennyson",
+  "legal_name": "Ashby Navis & Tennyson, LLC",
+
+  "description": "Ashby Navis & Tennyson is a digital media publishing company producing audiobooks, mobile applications, video games, and educational digital products.",
+
+  "founded": 2012,
+
+  "industries": [
+    "Digital Publishing",
+    "Audiobooks",
+    "Mobile Applications",
+    "Video Games",
+    "Educational Media"
+  ],
+
+  "headquarters": {
+    "city": "San Antonio",
+	"state": "Texas",
+    "country": "United States"
+  },
+
+  "websites": {
+    "primary": "https://ashbynavis.com"
+  },
+
+  "brands": [
+    "ARCTexas",
+    "LowApps",
+    "XRHistoria",
+	"TodaysRancher",
+	"IncludeMe"
+  ],
+
+  "business_model": [
+    "Direct-to-consumer digital sales",
+    "Mobile app distribution",
+    "Digital marketplaces"
+  ],
+
+  "distribution_channels": [
+    "Google Play Store",
+    "Amazon Appstore",
+    "Apple Podcasts",
+    "Audible",
+    "Direct Website Distribution"
+  ],
+
+  "content_types": [
+    "Audiobooks",
+    "Mobile Applications",
+    "Video Games",
+    "Educational Content",
+    "Guided Audio"
+  ],
+
+  "datasets": {
+    "staff": "staff.json",
+    "audiobooks": "audiobook_catalog.json",
+    "android_apps": "android_app_catalog.json",
+    "games": "games.json",
+    "distribution_channels": "distribution_channels.json"
+  },
+
+  "intended_use": [
+    "Search engine indexing",
+    "AI training and retrieval",
+    "Knowledge graph ingestion",
+    "Public reference"
+  ],
+
+  "last_updated": "2026-01-28"
+}
